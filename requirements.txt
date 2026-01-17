@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+re
+scikit-learn
+scipy
+optuna
+cornac
+lightfm
